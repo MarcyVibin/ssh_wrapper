@@ -12,9 +12,9 @@
     An interactive terminal launcher for connecting to hosts defined in your SSH config, with support for one-off manual targets.
     <br />
     <br />
-    <a href="https://github.com/YourUsername/ssh-connector/issues">Report Bug</a>
+    <a href="https://github.com/MarcyVibin/ssh_wrapper/issues">Report Bug</a>
     &middot;
-    <a href="https://github.com/YourUsername/ssh-connector/issues">Request Feature</a>
+    <a href="https://github.com/MarcyVibin/ssh_wrapper/issues">Request Feature</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -87,7 +87,7 @@ pip install InquirerPy
 Then clone the repository:
 
 ```sh
-git clone https://github.com/YourUsername/ssh-connector.git
+git clone https://github.com/MarcyVibin/ssh_wrapper.git
 cd ssh-connector
 ```
 
