@@ -55,6 +55,8 @@ Key features:
 - Automatically retries failed connections
 - Clears the screen between attempts for a clean interface
 
+![Screenshot of the application](ssh_ss.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
