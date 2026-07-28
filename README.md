@@ -132,8 +132,8 @@ Project Link: https://github.com/MarcyVibin/ssh_wrapper
 [contributors-shield]: https://img.shields.io/github/contributors/MarcyVibin/ssh_wrapper.svg?style=for-the-badge
 [contributors-url]: https://github.com/YourUsername/ssh-connector/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/YourUsername/ssh-connector.svg?style=for-the-badge
-[forks-url]: https://github.com/YourUsername/ssh-connector/network/members
+[forks-shield]: https://img.shields.io/github/forks/MarcyVibin/ssh_wrapper.svg?style=for-the-badge
+[forks-url]: https://github.com/MarcyVibin/ssh_wrapper/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/MarcyVibin/ssh_wrapper.svg?style=for-the-badge
 [stars-url]: https://github.com/MarcyVibin/ssh_wrapper/stargazers
@@ -141,5 +141,5 @@ Project Link: https://github.com/MarcyVibin/ssh_wrapper
 [issues-shield]: https://img.shields.io/github/issues/MarcyVibin/ssh_wrapper.svg?style=for-the-badge
 [issues-url]: https://github.com/MarcyVibin/ssh_wrapper/issues
 
-[license-shield]: https://img.shields.io/github/license/MarcyVibin/ssh_wrapper_.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/MarcyVibin/ssh_wrapper.svg?style=for-the-badge
 [license-url]: https://github.com/MarcyVibin/ssh_wrapper/blob/main/LICENSE
