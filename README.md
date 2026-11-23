@@ -90,7 +90,7 @@ Then clone the repository:
 
 ```sh
 git clone https://github.com/MarcyVibin/ssh_wrapper.git
-cd ssh-connector
+cd ssh_wrapper
 ```
 
 ---
@@ -100,7 +100,7 @@ cd ssh-connector
 Run the launcher directly:
 
 ```sh
-python ssh_connector.py
+python main.py
 ```
 
 You'll be shown a list of hosts pulled from your `~/.ssh/config`, plus a **Manual host...** option at the bottom. Selecting a manual entry prompts you for a target (e.g. `user@192.168.1.10`) and optionally saves it to your SSH config under a name you choose.
@@ -132,7 +132,7 @@ Project Link: https://github.com/MarcyVibin/ssh_wrapper
 [InquirerPy-url]: https://github.com/kazhala/InquirerPy
 
 [contributors-shield]: https://img.shields.io/github/contributors/MarcyVibin/ssh_wrapper.svg?style=for-the-badge
-[contributors-url]: https://github.com/YourUsername/ssh-connector/graphs/contributors
+[contributors-url]: https://github.com/MarcyVibin/ssh_wrapper/graphs/contributors
 
 [forks-shield]: https://img.shields.io/github/forks/MarcyVibin/ssh_wrapper.svg?style=for-the-badge
 [forks-url]: https://github.com/MarcyVibin/ssh_wrapper/network/members
